@@ -1,0 +1,18 @@
+[[source]]
+
+url = "https://github.com/ultrasonicsoft/python-reset-server-demo"
+verify_ssl = true
+
+
+[packages]
+
+flask = "*"
+flask_cors = "*"
+flask-jsonpify = "*"
+flask-sqlalchemy = "*"
+flask-restful = "*"
+
+
+[requires]
+
+python_version = "3.6"
